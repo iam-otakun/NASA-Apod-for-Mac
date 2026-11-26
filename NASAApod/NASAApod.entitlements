@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Deliberately not sandboxed in this GitHub-distributed build:
+	     the shared ~/.nasa-apod.conf and ~/.nasa-apod.log live in the
+	     real home directory (the plugin and the Windows app read
+	     them there), which a sandbox container would hide. The
+	     archive folder still gets a security-scoped bookmark in
+	     Settings, ready for a future sandboxed/App Store build. -->
+</dict>
+</plist>
