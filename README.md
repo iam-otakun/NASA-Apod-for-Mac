@@ -1,3 +1,7 @@
+> **This repository has moved / 本仓库已迁移** — development continues in [**NASA-APOD**](https://github.com/iam-otakun/NASA-APOD), where the macOS and Windows editions live together from v2.0.0 on. This repository is archived and kept for history only. / 后续开发已转到 [NASA-APOD](https://github.com/iam-otakun/NASA-APOD)：macOS 与 Windows 两端自 v2.0.0 起同住一个仓库。本仓库已归档，仅作历史留存。
+
+---
+
 # NASA APOD for Mac
 
 A native macOS menu bar app for NASA's Astronomy Picture of the Day: today's image (or video thumbnail) in the menu, the full explanation in its own window, and a local archive that grows day by day.
